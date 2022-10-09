@@ -1,3 +1,6 @@
 [submodule "FoodScanner-Android"]
 	path = FoodScanner-Android
 	url = git@github.com:AutaSoft/FoodScanner-Android.git
+[submodule "FoodScanner-ML"]
+	path = FoodScanner-ML
+	url = git@github.com:AutaSoft/FoodScanner-ML.git
