@@ -4,3 +4,6 @@
 [submodule "FoodScanner-ML"]
 	path = FoodScanner-ML
 	url = git@github.com:AutaSoft/FoodScanner-ML.git
+[submodule "FoodScanner-Backend"]
+	path = FoodScanner-Backend
+	url = git@github.com:AutaSoft/FoodScanner-Backend.git
